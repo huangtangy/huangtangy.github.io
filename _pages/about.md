@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HTY's Homepage."
+title: "HTY's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
