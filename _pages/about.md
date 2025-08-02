@@ -14,11 +14,33 @@ I completed my Ph.D. at Shanghai University in 2022 under the guidance of [Prof.
 **Research interests**
 ======
 Keywords: Quantum Information Processing; Machine Learning; Quantum Optimal Control; Shortcuts to Adiabaticity; 
-------
+ 
 1. AI for Quantum Science
 2. Quantum Optimal Control
 3. Variational Quantum Algorithms
 4. Quantum Information Processing
 5. Quantum Optics and cQED
+
+**Publication**
+======
+
+See my publications on [arXiv](https://arxiv.org/a/huang_t_1.html) and [Google Scholar](https://scholar.google.com/citations?user=vv4y1KcAAAAJ&hl=en).
+
+**Coding**
+======
+
+See my code contribution at [GitHub](https://github.com/huangtangy).
+
+**Teaching**
+======
+2025-June, Master course "Open Quantum System" at MC2, Chalmers University of Technology.
+As a lab assistant to guide master students in experimentally learning superconducting qubit characterization.
+
+**Oral Presentation**
+======
+2025-July,  ICMM-CSIC, Madrid
+
+The 9th International Conference on "Quantum Information, Spacetime Simulation, and Quantum Topological Matter (QuIST IX)"
+Talk Title:  "Improved Quantum Process Tomography"
 
  
