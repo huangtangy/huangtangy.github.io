@@ -1,11 +1,12 @@
 ---
 permalink: /
-#title: "HTY's Homepage."
+title: "HTY's Homepage."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 **Biography**
 ======
 
@@ -30,6 +31,7 @@ Selected Papers:
 
 -Huang, T., Yu, Z., Ni, Z., Zhou, X., & Li, X., Quantum force sensing by digital twinning of atomic Bose-Einstein condensates, [Communications Physics, 7(1), 172 (2024)](https://www.nature.com/articles/s42005-024-01662-1).
 
+-Guo, L., Huang, T.*, & Du, L.*, Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates, arXiv preprint [arXiv:2410.17069 (2024)](https://arxiv.org/abs/2410.17069).
 See my publications on [arXiv](https://arxiv.org/a/huang_t_1.html) and [Google Scholar](https://scholar.google.com/citations?user=vv4y1KcAAAAJ&hl=en).
 
 **Coding**
