@@ -41,6 +41,7 @@ See my code contribution at [GitHub](https://github.com/huangtangy).
 ======
 
 2025-June, Master course "Open Quantum System" at MC2, Chalmers University of Technology.
+
 As a lab assistant to guide master students in experimentally learning superconducting qubit characterization.
 
 **Oral Presentation**
@@ -49,6 +50,7 @@ As a lab assistant to guide master students in experimentally learning supercond
 2025-July,  ICMM-CSIC, Madrid
 
 The 9th International Conference on "Quantum Information, Spacetime Simulation, and Quantum Topological Matter (QuIST IX)"
+
 Talk Title:  "Improved Quantum Process Tomography"
 
  
